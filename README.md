@@ -8,8 +8,7 @@ This project focuses on layout structure, form styling, and responsive design to
 
 ## 🚀 Live Demo
 
-🔗 View Live Website:  
-Coming soon
+🔗 View Live Website: Coming soon
 
 🔗 GitHub Repository:  
 https://github.com/Salie21/music-log-in-page
