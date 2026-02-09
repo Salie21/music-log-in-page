@@ -1,2 +1,69 @@
-# spotify-landing-page
-Spotify landing page clone using HTML &amp; CSS
+# 🎵 Music Login Page
+
+A clean and modern music-themed login page built using **HTML5** and **CSS3**.
+
+This project focuses on layout structure, form styling, and responsive design to create a professional user interface.
+
+---
+
+## 🚀 Live Demo
+
+🔗 View Live Website:  
+https://salie21.github.io/music-log-in-page/
+
+🔗 GitHub Repository:  
+https://github.com/Salie21/music-log-in-page
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- Flexbox
+- Responsive Design Principles
+
+---
+
+## ✨ Features
+
+- Responsive login form
+- Modern UI styling
+- Styled input fields
+- Clean button design
+- Hover effects
+- Organized code structure
+
+---
+
+## 📂 Project Structure
+
+music-log-in-page/
+│── index.html
+│── style.css
+│── README.md
+
+
+---
+
+## 🎯 Project Goal
+
+The goal of this project was to:
+
+- Practice front-end layout design
+- Improve CSS styling skills
+- Build a visually appealing login interface
+- Strengthen HTML & CSS fundamentals
+
+---
+
+## 👨‍💻 Author
+
+**Ridwaan Salie**  
+Aspiring Front-End Developer  
+
+GitHub: https://github.com/Salie21
+
+---
+
+⭐ If you like this project, consider giving it a star!
